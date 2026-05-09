@@ -16,7 +16,7 @@
 
 ### 🚀 活動内容
 - **Development**
-  - `C++` / `Java` を用いたソフトウェア開発
+  - `C++` / `Java` を用いた開発
   - `mcfunction` (Minecraft) による体験・システム構築
 - **Study & License**
   - ITパスポート 取得済み
@@ -40,7 +40,7 @@
   - コンピュータ利用教育学会 (CIEC)
 
 ### 💬 Message
-- プロコン / マイクラ技術 / 研究の話など、気軽に絡んでください！
+- プロコン / マイクラ関連 / 研究の話など，気軽に絡んでください！
 
 ---
 
@@ -89,7 +89,7 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pothca&show_icons=true&theme=radical" alt="pothca's GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=pothca&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=pothca&show_icons=true&theme=radical&count_private=true)" alt="pothca's GitHub Stats" />
 </p>
 
 ---
