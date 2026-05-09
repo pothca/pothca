@@ -19,7 +19,7 @@
   - `C++` / `Java` を用いた開発
   - `mcfunction` (Minecraft) による体験・システム構築
 - **Study & License**
-  - ITパスポート 取得済み
+  - ITパスポート 取得
   - 基本情報技術者試験 勉強中
 - **Competition**
   - プログラミングコンテスト（プロコン）参加
