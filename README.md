@@ -89,7 +89,7 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=pothca&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=pothca&show_icons=true&theme=radical&count_private=true)" alt="pothca's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pothca&show_icons=true&theme=radical&count_private=true" alt="pothca's GitHub Stats" />
 </p>
 
 ---
