@@ -28,7 +28,7 @@
 - **Eccitante Server**
   - コマンド班 所属
   - [eccitanteserver.com](https://eccitanteserver.com/)
-- ** Minecraft(非公式) LINE OpenChat**
+- **Minecraft(非公式) LINE OpenChat**
   - 共同管理者
   - [X(Twitter) (@oc_minecraft)](https://x.com/oc_minecraft)
 
